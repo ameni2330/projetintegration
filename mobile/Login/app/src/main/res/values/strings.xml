@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projetpidev</string>
+    <string name="inscription">inscription</string>
+    <string name="login">Login</string>
+</resources>

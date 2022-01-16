@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Evenement/app/src/main/res/layout/activity_main.xml" value="0.19722222222222222" />
+        <entry key="..\:/Evenement/app/src/main/res/layout/add_evenement.xml" value="0.20416666666666666" />
+        <entry key="..\:/Evenement/app/src/main/res/layout/evenement_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/TpAndroid/evenement/app/src/main/res/layout/add_evenement.xml" value="0.10869565217391304" />
+        <entry key="..\:/TpAndroid/evenement/app/src/main/res/layout/evenement_item.xml" value="0.10869565217391304" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

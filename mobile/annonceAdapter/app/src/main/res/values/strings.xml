@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Annonce</string>
+
+  <string-array name="recherche">
+      <item>Décapotable</item>
+      <item>Porche</item>
+      <item>Range Rover</item>
+      <item>Maison</item>
+      <item>Robe Enfant</item>
+      <item>Robe Femme</item>
+      <item>Robe Soirée</item>
+      <item>Lunette</item>
+  </string-array>
+
+</resources>
